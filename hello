@@ -1,0 +1,3 @@
+echo "Hello 1" > file.txt
+git add file.txt
+git commit -m "Commit 1: add Hello 1"
